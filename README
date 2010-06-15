@@ -1,0 +1,5 @@
+Currently contains an experiment in building a basic Sinatra-style RESTful HTTP router with Node.js.
+
+TODO:
+
+- Be more eventful.
